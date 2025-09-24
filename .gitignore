@@ -1,14 +1,6 @@
-# Ignore all virtual environments in subfolders
+.venv/
 */.venv/
-
-# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# VS Code settings
-.vscode/
-
-# macOS system files
 .DS_Store
+.vscode/
